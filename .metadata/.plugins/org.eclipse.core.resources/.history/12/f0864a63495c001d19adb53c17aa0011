@@ -1,0 +1,19 @@
+package cursojava.executavel;
+
+import cursojava.classes.Aluno;
+
+public class PrimeiraClasseJava {
+
+	/* Main é o método auto executável em Java */
+	public static void main(String[] args) {
+		
+		/* Objeto ainda não axiste na memória */
+		Aluno aluno1;
+		
+		/* Agora temos um objeto real na memória */
+		Aluno aluno2 = new Aluno();
+		
+
+	}
+
+}
